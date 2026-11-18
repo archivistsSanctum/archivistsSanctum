@@ -1,5 +1,5 @@
 <h1 align="center">Salutations 👾 , I'm Rahul J</h1>
-<h3 align="center">I am aspiring software developer, a coding enthusiast and a learner at heart❤️‍🔥.</h3>
+<h3 align="center">I am an aspiring software developer, a coding enthusiast and a learner at heart❤️‍🔥.</h3>
 
 - 🔭 I’m currently working on making simulations using OPENGL [Black Hole Simulation (aka DarkSpace)](https://github.com/archivistsSanctum/Darkspace)
 - 🔬 I'm also working on a launchable App where you can upload mri images and you can see how a convulutional neural network discern and classify the image
