@@ -1,4 +1,4 @@
-<h1 align="center">Salutations , I'm Rahul J</h1>
+<h1 align="center">Salutations 👾 , I'm Rahul J</h1>
 <h3 align="center">I am aspiring software developer, a coding enthusiast and a learner at heart❤️‍🔥.</h3>
 
 - 🔭 I’m currently working on making simulations using OPENGL [Black Hole Simulation (aka DarkSpace)](https://github.com/archivistsSanctum/Darkspace)
@@ -11,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.leetcode.com/marinef3105" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="marinef3105" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
