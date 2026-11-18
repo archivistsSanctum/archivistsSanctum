@@ -2,10 +2,9 @@
 <h3 align="center">I am aspiring software developer, a coding enthusiast and a learner at heart❤️‍🔥.</h3>
 
 - 🔭 I’m currently working on making simulations using OPENGL [Black Hole Simulation (aka DarkSpace)](https://github.com/archivistsSanctum/Darkspace)
+- 🔬 I'm also working on a launchable App where you can upload mri images and you can see how a convulutional neural network discern and classify the image
 
 - 🌱 I’m currently learning **OpenGL, Pytorch, C++**
-
-- 🔬 I'm also working on a launchable App where you can upload mri images and you can see how a convulutional neural network discern and classify the image [OrganScanEXP](https://github.com/archivistsSanctum/OrganScanEXP)
 
 - 📫 How to reach me **rahuljemc2006@gmail.com**
 
